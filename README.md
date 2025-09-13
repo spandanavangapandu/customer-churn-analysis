@@ -77,5 +77,6 @@ Customer-Churn-Analysis/
 ## 🧑‍💻 Author
 
 SPANDANA VANGAPANDU
+```
 🔗 **GitHub Repository:** (https://github.com/spandanavangapandu)
 📧 **Contact:** [spandanavangapandu@gmail.com](mailto:spandanavangapandu@gmail.com)   
