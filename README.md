@@ -58,7 +58,7 @@ python eda_script.py
 
 ---
 ## 📁 Project Structure
-```
+```bash
 Customer-Churn-Analysis/
 │── dashboards/                 # Power BI Dashboards
 │   ├── Customer Churn Dashboard.pbix
@@ -74,3 +74,8 @@ Customer-Churn-Analysis/
 │── eda_script.py               # EDA in Python
 │── README.md                   # Documentation
 ```
+## 🧑‍💻 Author
+
+SPANDANA VANGAPANDU
+🔗 **GitHub Repository:** (https://github.com/spandanavangapandu)
+📧 **Contact:** [spandanavangapandu@gmail.com](mailto:spandanavangapandu@gmail.com)   
